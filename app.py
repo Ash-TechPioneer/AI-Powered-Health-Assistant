@@ -64,3 +64,5 @@ def main():
         else:
             st.write("Please enter a query.")
 
+if __name__ == "__main__":
+    main()
